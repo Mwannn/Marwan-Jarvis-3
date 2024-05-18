@@ -78,6 +78,7 @@
                         <td>15</td>
                     </tr>
                     <tr>
+                        
                         <td>Tablet</td>
                         <td>2000000</td>
                         <td>Tablet merk Samsung</td>
